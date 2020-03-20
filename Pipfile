@@ -12,6 +12,7 @@ numpy = "*"
 flask-sqlalchemy = "*"
 sqlalchemy = "*"
 gunicorn = "*"
+pymysql = "*"
 
 [requires]
 python_version = "3.8"
